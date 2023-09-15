@@ -9,68 +9,1184 @@
         {
             "Titre": "Cède bail local 95m² à Anglet quartier dynamique",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-local-95m2-64600,2222576,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "67 200€",
+            "Surface": "12 463€/m²"
         },
         {
             "Titre": "Vente local commercial de 200m² en za de Souloumou",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-200m2-zone-artisanale-soumoulou-64420,2222529,A,offre.html",
-            "Prix": "67 200€",
+            "Prix": "290 000€",
             "Surface": "95 m²"
         },
         {
             "Titre": "Vente local commercial 142m² à Ahetze",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-ahetze-64210,2222393,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "370 000€",
+            "Surface": "707€/m²"
         },
         {
             "Titre": "Vente local commercial 173m² à Ahetze",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-ahetze-64210,2222392,A,offre.html",
-            "Prix": "290 000€",
+            "Prix": "432 500€",
             "Surface": "200 m²"
         },
         {
             "Titre": "Vente bureaux 94m² RDC au Boucau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-boucau-64340,2222391,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "196 000€",
+            "Surface": "1 450€/m²"
         },
         {
             "Titre": "Bureaux et dépôt de 596m² à vendre à Ascain",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-ascain-bureaux-depot-596m2-64310,2222326,A,offre.html",
-            "Prix": "370 000€",
+            "Prix": "1 433 250€",
             "Surface": "142 m²"
         },
         {
             "Titre": "Vente local commercial 200m² Lescar Quartier Libre",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-dans-galerie-marchande-premium-lescar-quartier-libre-64230,2213651,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "145 000€",
+            "Surface": "2 606€/m²"
         },
         {
             "Titre": "Vente murs commerciaux empl n°1 à Bayonne",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-brasserie-bayonne-64100,2222016,A,offre.html",
-            "Prix": "432 500€",
+            "Prix": "1 250 000€",
             "Surface": "173 m²"
         },
         {
             "Titre": "Entrepôt de 500m² + parking à vendre à Hasparren",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-entrepot-500m2-hasparren,2221642,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "903 000€",
+            "Surface": "2 500€/m²"
         },
         {
             "Titre": "Immeuble de 470m² à vendre à Bayonne",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-immeuble-470m2-bayonne,2221641,A,offre.html",
-            "Prix": "196 000€",
+            "Prix": "530 000€",
             "Surface": "94 m²"
         },
         {
             "Titre": "Vend murs commerciaux 700m² très bien placés Lons",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-tres-bien-places-sur-axe-lons-64140,2221385,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "1 219 000€",
+            "Surface": "2 085€/m²"
+        },
+        {
+            "Titre": "Vente local commercial de 130m² à Salies de Béarn",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-130m2-en-coeur-de-ville-thermale-salies-de-bearn-64270,2221068,A,offre.html",
+            "Prix": "60 000€",
+            "Surface": "596 m²"
+        },
+        {
+            "Titre": "Vente bureaux calmes et lumineux de 95m² à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html",
+            "Prix": "319 930€",
+            "Surface": "2 405€/m²"
+        },
+        {
+            "Titre": "A vendre local rénové 59m² proche mer à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-professionnel-biarritz-64200,2214134,A,offre.html",
+            "Prix": "451 500€",
+            "Surface": "200 m²"
+        },
+        {
+            "Titre": "Vente local 76m² excellent visibilité à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-pau-64000,2218872,A,offre.html",
+            "Prix": "88 900€",
+            "Surface": "725€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 1000m² à Monein",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-bonne-rentabilite-monein-64360,2218826,A,offre.html",
+            "Prix": "1 500 000€",
+            "Surface": "231 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 480m² au centre de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-pau-64000,2218824,A,offre.html",
+            "Prix": "676 000€",
+            "Surface": "5 411€/m²"
+        },
+        {
+            "Titre": "Entrepôt 7741m² à vendre à Pau Nord sortie n°9.1",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-entrepot-pau-nord-64000,2218739,A,offre.html",
+            "Prix": "3 360 000€",
+            "Surface": "500 m²"
+        },
+        {
+            "Titre": "Vente murs centre médical 7 cabinets à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-centre-medical-pau-64000,2218345,A,offre.html",
+            "Prix": "546 000€",
+            "Surface": "1 806€/m²"
+        },
+        {
+            "Titre": "A vendre locaux 234m² pour activité médicale à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html",
+            "Prix": "281 958€",
+            "Surface": "470 m²"
+        },
+        {
+            "Titre": "A vendre plateau 176m² pour activité médicale Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html",
+            "Prix": "212 112€",
+            "Surface": "1 128€/m²"
+        },
+        {
+            "Titre": "Vente local commercial 169m² au centre d'Oloron",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-oloron-sainte-marie-64400,2217873,A,offre.html",
+            "Prix": "65 000€",
+            "Surface": "700 m²"
+        },
+        {
+            "Titre": "Murs commerciaux de 194m² à vendre à Pau empl n°1",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-194m2-pau-64000,2217650,A,offre.html",
+            "Prix": "449 400€",
+            "Surface": "1 741€/m²"
+        },
+        {
+            "Titre": "Vend bâtiment d'activités de 410m² en agglo de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-activites-agglomeration-de-pau,2217416,A,offre.html",
+            "Prix": "342 400€",
+            "Surface": "130 m²"
+        },
+        {
+            "Titre": "A vendre plateau de bureaux 219m² R+2 à Bizanos",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html",
+            "Prix": "441 860€",
+            "Surface": "462€/m²"
+        },
+        {
+            "Titre": "Boutique de 9m² à vendre en centre cial à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-boutique-9m2-64600,2217123,A,offre.html",
+            "Prix": "122 640€",
+            "Surface": "95 m²"
+        },
+        {
+            "Titre": "A vendre murs commerciaux de 30m² à Bayonne centre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-30m2-bayonne-centre-64100,2216880,A,offre.html",
+            "Prix": "266 760€",
+            "Surface": "3 368€/m²"
+        },
+        {
+            "Titre": "Vente locaux commerciaux sur axe passant à Lons",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-opportunite-sur-axe-passant-lons-64140,2216679,A,offre.html",
+            "Prix": "270 000€",
+            "Surface": "59 m²"
+        },
+        {
+            "Titre": "Vente ensemble immobilier sur axe passant à Lons",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-ensemble-immobilier-lons-64140,2216678,A,offre.html",
+            "Prix": "1 226 420€",
+            "Surface": "7 653€/m²"
+        },
+        {
+            "Titre": "Bâtiment commercial à vendre belle visibilité Lons",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-commercial-lons-64140,2216676,A,offre.html",
+            "Prix": "334 864€",
+            "Surface": "76 m²"
+        },
+        {
+            "Titre": "Vente bureaux 271m² R+2 zone tertiaire de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html",
+            "Prix": "238 277€",
+            "Surface": "1 170€/m²"
+        },
+        {
+            "Titre": "Vente plateaux de bureaux 273m² R+1 à Pau Nord",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html",
+            "Prix": "1 378 000€",
+            "Surface": "1 000 m²"
+        },
+        {
+            "Titre": "Vend bureaux locaux activité 596m² St Jean de Luz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-ensemble-de-bureaux-et-locaux-activite-saint-jean-de-luz-64500,2216648,A,offre.html",
+            "Prix": "143 100€",
+            "Surface": "1 500€/m²"
+        },
+        {
+            "Titre": "Vente local commercial 89m² centre-ville de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-opportunite-investisseur-proche-clemenceau-pau-64000,2216670,A,offre.html",
+            "Prix": "945 000€",
+            "Surface": "480 m²"
+        },
+        {
+            "Titre": "Vente local commercial de 1153m² à Hasparren",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-1153m2-hasparren-64240,2215807,A,offre.html",
+            "Prix": "472 000€",
+            "Surface": "1 408€/m²"
+        },
+        {
+            "Titre": "Vend murs local professionnel de 65m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-local-professionnel-prof-liberale-biarritz-64200,2215712,A,offre.html",
+            "Prix": "1 260 000€",
+            "Surface": "7 741 m²"
+        },
+        {
+            "Titre": "Vente murs restaurant logement 585m² prox Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-restaurant-bar-logement-bayonne-64100,2215644,A,offre.html",
+            "Prix": "129 000€",
+            "Surface": "434€/m²"
+        },
+        {
+            "Titre": "À vendre bureaux 113m² R+2 axe très passant à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-pau-64000,2214340,A,offre.html",
+            "Prix": "225 000€",
+            "Surface": "660 m²"
+        },
+        {
+            "Titre": "Vente local d'activités 830m² au Sud de Nay",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-activites-bruges-capbis-mifaget-64800,2214220,A,offre.html",
+            "Prix": "347 000€",
+            "Surface": "827€/m²"
+        },
+        {
+            "Titre": "immeuble de 160m² à vendre à Hendaye centre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-immeuble-160m2-hendaye-centre-64700,2212207,A,offre.html",
+            "Prix": "332 596€",
+            "Surface": "234 m²"
+        },
+        {
+            "Titre": "Bureaux 165m² lumineux à vendre sur Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212186,A,offre.html",
+            "Prix": "284 043€",
+            "Surface": "1 205€/m²"
+        },
+        {
+            "Titre": "Vente bureaux 140m² lumineux à Serres-Castet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-proche-de-tous-les-transports-serres-castet-64121,2212185,A,offre.html",
+            "Prix": "406 383€",
+            "Surface": "176 m²"
+        },
+        {
+            "Titre": "A vendre bureaux de 193m² proche aéroport de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212184,A,offre.html",
+            "Prix": "141 000€",
+            "Surface": "1 205€/m²"
+        },
+        {
+            "Titre": "Vente bureaux 68m² RDC lumineux à Serres-Castet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-de-68-m2-lumineux-serres-castet-64121,2212183,A,offre.html",
+            "Prix": "406 383€",
+            "Surface": "169 m²"
+        },
+        {
+            "Titre": "Vente bureaux 193m² avec 2 terrasses Serres-Castet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-serres-castet-64121,2212182,A,offre.html",
+            "Prix": "391 305€",
+            "Surface": "385€/m²"
+        },
+        {
+            "Titre": "Vente entrepôt de 920m² sur 2500m² à Billère",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-entrepot-sur-2500-m2-de-foncier-pau-64000,2212181,A,offre.html",
+            "Prix": "674 100€",
+            "Surface": "194 m²"
+        },
+        {
+            "Titre": "PAU LESCAR - Local à louer ou à vendre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pau-lescar-local-louer-ou-vendre-64230,2211684,A,offre.html",
+            "Prix": "755 244€",
+            "Surface": "2 316€/m²"
+        },
+        {
+            "Titre": "VENTE - REF : 7049FD",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-bureaux-ref-7049fd-64600,2211072,A,offre.html",
+            "Prix": "408 000€",
+            "Surface": "410 m²"
+        },
+        {
+            "Titre": "Vente murs occupés de 197m² à Pau axe passant",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-occupes-197m2-pau-64000,2210660,A,offre.html",
+            "Prix": "2 352 000€",
+            "Surface": "835€/m²"
+        },
+        {
+            "Titre": "Vente local commercial de 50m² à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-location-local-commercial-50m2-anglet-64600,2211674,A,offre.html",
+            "Prix": "130 000€",
+            "Surface": "219 m²"
+        },
+        {
+            "Titre": "A VENDRE - BAYONNE - LOCAL COMMERCIAL - 90 m2",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bayonne-local-commercial-90-m2-64100,2210092,A,offre.html",
+            "Prix": "1 376 560€",
+            "Surface": "2 018€/m²"
+        },
+        {
+            "Titre": "ASCAIN - IMMEUBLE à vendre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-ascain-immeuble-vendre-64310,2208876,A,offre.html",
+            "Prix": "2 625 000€",
+            "Surface": "9 m²"
+        },
+        {
+            "Titre": "A vendre murs loué à 2 enseignes nationales BAB2",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-loue-2-enseignes-nationales-bayonne-64100,2208641,A,offre.html",
+            "Prix": "39 000€",
+            "Surface": "30 m²"
+        },
+        {
+            "Titre": "Vente boutique 35m² quartier des Halles à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-boutique-pau-64000,2207503,A,offre.html",
+            "Prix": "159 000€",
+            "Surface": "4 088€/m²"
+        },
+        {
+            "Titre": "Vente local commercial 200m² à Oloron Sainte-Marie",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-commercial-oloron-sainte-marie-64400,2206455,A,offre.html",
+            "Prix": "166 000€",
+            "Surface": "177 m²"
+        },
+        {
+            "Titre": "Terrain industriel à vendre à Bordes Aéropolis",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-terrain-industriel-bordes-64,2202460,A,offre.html",
+            "Prix": "490 000€",
+            "Surface": "1 507€/m²"
+        },
+        {
+            "Titre": "Local restauration de 150m² à vendre à Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bayonne-local-restauration-64100,2202141,A,offre.html",
+            "Prix": "242 000€",
+            "Surface": "447 m²"
+        },
+        {
+            "Titre": "Vente local commercial 164m² à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-ancien-institut-de-beaute-anglet-64600,2200739,A,offre.html",
+            "Prix": "658 760€",
+            "Surface": "604€/m²"
+        },
+        {
+            "Titre": "Vente bureau 40m² au 2ème étage à Biarritz Kleber",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-biarritz-bureau-40m2-64200,2200560,A,offre.html",
+            "Prix": "249 700€",
+            "Surface": "1 100 m²"
+        },
+        {
+            "Titre": "Vente murs gîtes en village Pyrénées Atlantiques",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-gite-murs-commerciaux-pyrenees-atlantiques-64,2200483,A,offre.html",
+            "Prix": "386 366€",
+            "Surface": "1 115€/m²"
+        },
+        {
+            "Titre": "Vend local restaurant rapide traiteur 88m² Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-restaurant-rapide-traiteur-rotisserie-anglet-64600,2200371,A,offre.html",
+            "Prix": "186 666€",
+            "Surface": "225 m²"
+        },
+        {
+            "Titre": "Vend murs local commercial de 173m² à Ahetze",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-local-commercial-ahetze-pied-immeuble-173m2-64210,2198272,A,offre.html",
+            "Prix": "312 033€",
+            "Surface": "1 488€/m²"
+        },
+        {
+            "Titre": "Vente murs local commercial de 93m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-local-commercial-93m2-boucau-pied-immeuble-64340,2198271,A,offre.html",
+            "Prix": "280 000€",
+            "Surface": "224 m²"
+        },
+        {
+            "Titre": "Vend murs local commercial de 142m² à Ahetze",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-local-commercial-ahetze-pied-immeuble-142m2-64210,2198270,A,offre.html",
+            "Prix": "129 900€",
+            "Surface": "1 064€/m²"
+        },
+        {
+            "Titre": "Local commercial de 110m² à vendre à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-biarritz-local-commercial-110m2-64200,2197726,A,offre.html",
+            "Prix": "7 280 000€",
+            "Surface": "596 m²"
+        },
+        {
+            "Titre": "Vente boutique 110 m² en centre-ville de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-boutique-pau-64000,2197388,A,offre.html",
+            "Prix": "225 720€",
+            "Surface": "2 312€/m²"
+        },
+        {
+            "Titre": "Bureaux divisibles de 2600m² à vendre à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-pau-bureaux-2600m2-64000,2197307,A,offre.html",
+            "Prix": "324 000€",
+            "Surface": "1 153 m²"
+        },
+        {
+            "Titre": "Vente local commercial 135m² au centre d'Hendaye",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-commercial-hendaye-64700,2197207,A,offre.html",
+            "Prix": "1 000 000€",
+            "Surface": "820€/m²"
+        },
+        {
+            "Titre": "Terrains viabilisés  à vendre à Buros proche Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-terrain-buros-64160,2196396,A,offre.html",
+            "Prix": "76 000€",
+            "Surface": "65 m²"
+        },
+        {
+            "Titre": "Vente local commercial 640m² à  Lons",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-lons-64140,2196043,A,offre.html",
+            "Prix": "536 000€",
+            "Surface": "7 262€/m²"
+        },
+        {
+            "Titre": "Vente garage parking à Monein quartier Serrot",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-garage-parking-monein-64360,2195155,A,offre.html",
+            "Prix": "898 500€",
+            "Surface": "585 m²"
+        },
+        {
+            "Titre": "Vente murs local artisan de 450m² à Villefranque",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-local-artisan-villefranque-450m2,2194600,A,offre.html",
+            "Prix": "940 800€",
+            "Surface": "2 154€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 299.5m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-2995m2-boucau-64340,2194136,A,offre.html",
+            "Prix": "879 450€",
+            "Surface": "114 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 294m² RDC Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-294m2-rdc-boucau-64340,2194135,A,offre.html",
+            "Prix": "828 960€",
+            "Surface": "1 132€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 266.5m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-266m2-de-boucau-64340,2194134,A,offre.html",
+            "Prix": "722 880€",
+            "Surface": "830 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 251.2m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-2512m2-boucau-64340,2194133,A,offre.html",
+            "Prix": "677 700€",
+            "Surface": "271€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 225.9m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194132,A,offre.html",
+            "Prix": "538 890€",
+            "Surface": "160 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 225.9m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194131,A,offre.html",
+            "Prix": "486 900€",
+            "Surface": "2 169€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 163.3m² au Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-163m2-boucau-64340,2194130,A,offre.html",
+            "Prix": "901 000€",
+            "Surface": "165 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 163.3m² au Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-1633m2-boucau-64340,2194128,A,offre.html",
+            "Prix": "209 742€",
+            "Surface": "2 016€/m²"
+        },
+        {
+            "Titre": "Local de 180m² à vendre sur terrain 1200m² Bidart",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bidart-local-180m2-vendre-64210,2193601,A,offre.html",
+            "Prix": "474 750€",
+            "Surface": "140 m²"
+        },
+        {
+            "Titre": "Vente bureaux climatisés VEFA 42m² Bayonne Lauga",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bayonne-lauga-vefa-bureaux-climatises-64100,2193600,A,offre.html",
+            "Prix": "180 000€",
+            "Surface": "2 029€/m²"
+        },
+        {
+            "Titre": "Vente local industriel de 941m² à Serres Castets",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-industriel-941-m2-emplacement-ideal-serres-castet-64121-pau-nord,2193494,A,offre.html",
+            "Prix": "825 000€",
+            "Surface": "194 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 387m² à Monein centre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-monein-64360,2192575,A,offre.html",
+            "Prix": "1 117 200€",
+            "Surface": "2 095€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 545m² à Mourenx",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-mourenx-64150,2192573,A,offre.html",
+            "Prix": "861 600€",
+            "Surface": "68 m²"
+        },
+        {
+            "Titre": "Local commercial de 616m² à vendre en VEFA à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-pau-local-commercial-616m2-64000,2190312,A,offre.html",
+            "Prix": "208 626€",
+            "Surface": "2 074€/m²"
+        },
+        {
+            "Titre": "Local commercial de 399m² à vendre à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-pau-local-commercial-399m2-64000,2189902,A,offre.html",
+            "Prix": "1 293 000€",
+            "Surface": "194 m²"
+        },
+        {
+            "Titre": "Local professionnel de 359m² à vendre à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pau-local-professionnel-359m2-64000,2189901,A,offre.html",
+            "Prix": "224 000€",
+            "Surface": "2 095€/m²"
+        },
+        {
+            "Titre": "Local professionnel de 44m² en R+1 à vendre à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pau-local-professionnel-44m2-64000,2189898,A,offre.html",
+            "Prix": "595 000€",
+            "Surface": "920 m²"
+        },
+        {
+            "Titre": "Vente bureaux neufs de 197m² à Biarritz Aguilera",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-neufs-biarritz-64200-bab-et-alentours,2189211,A,offre.html",
+            "Prix": "1 272 000€",
+            "Surface": "425€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux de 60m² à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-murs-commerciaux-60m2-64600,2187528,A,offre.html",
+            "Prix": "475 000€",
+            "Surface": "375 m²"
+        },
+        {
+            "Titre": "Vente murs 284m² allées Catherine de Bourbon à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-pau-64000,2187190,A,offre.html",
+            "Prix": "1 312 500€",
+            "Surface": "1 798€/m²"
+        },
+        {
+            "Titre": "Vend bureau de 196m² en centre d'affaires Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-centre-affaires-biarritz-vendre-bureau-en-attique-64200,2186036,A,offre.html",
+            "Prix": "265 345€",
+            "Surface": "330 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 640m² à Lestelle-Bétharram",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-lestelle-betharram-64800,2185760,A,offre.html",
+            "Prix": "512 820€",
+            "Surface": "2 289€/m²"
+        },
+        {
+            "Titre": "Vente investissement immobilier à Sare 64",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-investissement-immobilier-sare-64,2184420,A,offre.html",
+            "Prix": "140 000€",
+            "Surface": "197 m²"
+        },
+        {
+            "Titre": "Locaux d'activités à partir de 218m² à vendre Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-locaux-activites-218m2-pau-64000,2182959,A,offre.html",
+            "Prix": "315 000€",
+            "Surface": "2 071€/m²"
+        },
+        {
+            "Titre": "Locaux d'activités 3824m² à vendre à Pau D938",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-locaux-activites-pau-64000,2182335,A,offre.html",
+            "Prix": "536 000€",
+            "Surface": "50 m²"
+        },
+        {
+            "Titre": "Vente local commercial de 46m² à Urcuit",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-local-commercial-46-m2-urcuit,2181057,A,offre.html",
+            "Prix": "858 627€",
+            "Surface": "47 040€/m²"
+        },
+        {
+            "Titre": "Vend murs hôtel restaurant de 650m² Pays Basque",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pays-basque-murs-hotel-restaurant-cambo-les-bains-64250,2178617,A,offre.html",
+            "Prix": "458 631€",
+            "Surface": "90 m²"
+        },
+        {
+            "Titre": "A vendre murs + FDC bar restaurant au Pays Basque",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-fdc-un-bar-restaurant-au-coeur-souraide,2177644,A,offre.html",
+            "Prix": "156 000€",
+            "Surface": "1 444€/m²"
+        },
+        {
+            "Titre": "Vend bureaux en R+2 de 139m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-biarritz-programme-en-vefa-bureaux-en-r-2-de-139m2-64200,2177638,A,offre.html",
+            "Prix": "448 000€",
+            "Surface": "596 m²"
+        },
+        {
+            "Titre": "Bureaux en R+2 de 77.5m² à vendre à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-biarritz-programme-en-vefa-bureaux-en-r-2de-77m2-64200,2177637,A,offre.html",
+            "Prix": "855 560€",
+            "Surface": "2 310€/m²"
+        },
+        {
+            "Titre": "A VENDRE - ANGLET - FOND DE COMMERCE 35 m2",
+            "URL": "https://www.cessionpme.com/annonce,vente-fonds-de-commerce-anglet-35-m2-64600,2176372,A,offre.html",
+            "Prix": "216 800€",
+            "Surface": "1 300 m²"
+        },
+        {
+            "Titre": "A vendre immeuble ancien hôtel à Soumoulou",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-immeuble-ancien-hotel-soumoulou-64420,2175362,A,offre.html",
+            "Prix": "1 084 000€",
+            "Surface": "2 019€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 1 540m² à Salies De Béarn",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-salies-de-bearn-1-540-m2,2175254,A,offre.html",
+            "Prix": "242 550€",
+            "Surface": "35 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux loués de 50m² à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-commerciaux-loues-50m2-anglet,2174307,A,offre.html",
+            "Prix": "478 400€",
+            "Surface": "1 114€/m²"
+        },
+        {
+            "Titre": "Vente local de 57m² en rue piétonne de Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-boutique-57m2-biarritz-64200,2174245,A,offre.html",
+            "Prix": "484 900€",
+            "Surface": "206 m²"
+        },
+        {
+            "Titre": "Cession parts sociales magasin sur la Côte Basque",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-parts-sociales-saint-jean-de-luz-64500,2172447,A,offre.html",
+            "Prix": "690 200€",
+            "Surface": "772€/m²"
+        },
+        {
+            "Titre": "Vend bureaux de 132m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pole-activites-tertiaires-132m2-bayonne-forum-64100,2171062,A,offre.html",
+            "Prix": "771 900€",
+            "Surface": "150 000 m²"
+        },
+        {
+            "Titre": "Vend bureaux de 126m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pole-activites-tertiaires-126m2-bayonne-forum-64100,2171061,A,offre.html",
+            "Prix": "440 000€",
+            "Surface": "150 m²"
+        },
+        {
+            "Titre": "Vend bureaux de 180m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-pole-activites-tertiaires-180m2-bayonne-forum-64100,2171060,A,offre.html",
+            "Prix": "581 880€",
+            "Surface": "1 107€/m²"
+        },
+        {
+            "Titre": "Vend bureaux de 213m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pole-activites-tertiaires-213m2-bayonne-forum-64100,2171059,A,offre.html",
+            "Prix": "1 583 760€",
+            "Surface": "164 m²"
+        },
+        {
+            "Titre": "Local commercial 363m² à vendre Pau proche Serviez",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-pau-64000,2170734,A,offre.html",
+            "Prix": "908 560€",
+            "Surface": "2 988€/m²"
+        },
+        {
+            "Titre": "Vend bureaux de 131m² en VEFA à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bayonne-forum-nouvel-immeuble-de-bureaux-131m2-en-vefa-64100,2166876,A,offre.html",
+            "Prix": "1 050 000€",
+            "Surface": "40 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 770m² occupés à Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-bayonne-64100,2166599,A,offre.html",
+            "Prix": "203 300€",
+            "Surface": "6 050€/m²"
+        },
+        {
+            "Titre": "Vente terrain 1120m² emplacement N°1 à Bidart",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-terrain-bidart-64210,2166597,A,offre.html",
+            "Prix": "246 400€",
+            "Surface": "88 m²"
+        },
+        {
+            "Titre": "Vente murs loués de 300m² à Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-loues-bail-neuf-bayonne-64100,2164334,A,offre.html",
+            "Prix": "381 600€",
+            "Surface": "2 838€/m²"
+        },
+        {
+            "Titre": "Cède local vente à emporter à Biarritz centre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-emporter-biarritz-64200,2163746,A,offre.html",
+            "Prix": "1 272 000€",
+            "Surface": "173 m²"
+        },
+        {
+            "Titre": "Vente local 100m² terrasse à Bayonne rue piétonne",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-local-100m2-bayonne-rue-pietonne-emplacement-n-1-64100,2162671,A,offre.html",
+            "Prix": "149 000€",
+            "Surface": "2 233€/m²"
+        },
+        {
+            "Titre": "Vend plateau tertiaire de 201m² à amenager à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-plateau-amenager-immeuble-tertiaire-de-standing-pau-64000,2161487,A,offre.html",
+            "Prix": "655 200€",
+            "Surface": "93 m²"
+        },
+        {
+            "Titre": "A vendre murs usage mixte de 166m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-usage-mixte-biarritz-64200,2161446,A,offre.html",
+            "Prix": "820 000€",
+            "Surface": "2 007€/m²"
+        },
+        {
+            "Titre": "Vente bureaux 120m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-pau-64000,2161391,A,offre.html",
+            "Prix": "170 000€",
+            "Surface": "142 m²"
+        },
+        {
+            "Titre": "A vendre dépôt 301m² emplacement central Anglet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-depot-anglet-64600,2159045,A,offre.html",
+            "Prix": "643 200€",
+            "Surface": "2 197€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux Biarritz Rue de la Bergerie",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-biarritz-saint-charles-64200,2157316,A,offre.html",
+            "Prix": "178 500€",
+            "Surface": "110 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux restaurant 40m² à Arette",
+            "URL": "https://www.cessionpme.com/annonce,achat-murs-commerciaux-arette-64570,2155552,A,offre.html",
+            "Prix": "1 344 000€",
+            "Surface": "2 545€/m²"
+        },
+        {
+            "Titre": "Vente murs libres de 130m² à St Jean de Luz",
+            "URL": "https://www.cessionpme.com/annonce,vente-murs-libres-130m2-st-jean-de-luz-et-alentours,2155482,A,offre.html",
+            "Prix": "11 500€",
+            "Surface": "110 m²"
+        },
+        {
+            "Titre": "Vente très beau local proche des Halles de Pau",
+            "URL": "https://www.cessionpme.com/annonce,vente-opportunite-investisseur-pau-64000,2152482,A,offre.html",
+            "Prix": "9 500€",
+            "Surface": "1 181€/m²"
+        },
+        {
+            "Titre": "Vente immeuble loué de 798m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,achat-immeuble-loue-798m2-pau-64000,2151221,A,offre.html",
+            "Prix": "82 500€",
+            "Surface": "2 600 m²"
+        },
+        {
+            "Titre": "Vend place de parking aérienne à St Pierre d'Irube",
+            "URL": "https://www.cessionpme.com/annonce,acheter-une-place-de-parking-aerienne-saint-pierre-irube-64990,2150964,A,offre.html",
+            "Prix": "1 500 000€",
+            "Surface": "2 800€/m²"
+        },
+        {
+            "Titre": "Vend place de parking aérienne à St Pierre d'Irube",
+            "URL": "https://www.cessionpme.com/annonce,achat-place-de-parking-aerienne-saint-pierre-irube-64990,2150963,A,offre.html",
+            "Prix": "1 260 000€",
+            "Surface": "133 m²"
+        },
+        {
+            "Titre": "Cède kiosque de vente de 43m² en agglo de Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-kiosque-agglomeration-de-pau,2150783,A,offre.html",
+            "Prix": "575 000€",
+            "Surface": "1 697€/m²"
+        },
+        {
+            "Titre": "Vente Murs commerciaux 416 m²",
+            "URL": "https://www.cessionpme.com/annonce,vente-murs-commerciaux-416-msup2-lons-64140,2150711,A,offre.html",
+            "Prix": "750 870€",
+            "Surface": "5 400 m²"
+        },
+        {
+            "Titre": "Vente local d'activité 2250m² à 20 minutes de Pau",
+            "URL": "https://www.cessionpme.com/annonce,vente-20-minutes-de-pau-local-activite-2250m2-64000,2145605,A,offre.html",
+            "Prix": "323 040€",
+            "Surface": "60€/m²"
+        },
+        {
+            "Titre": "Vend murs commerciaux et FDC restaurant à Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,achat-murs-commerciaux-200m2-et-fdc-restaurant-bayonne-64100,2145363,A,offre.html",
+            "Prix": "472 500€",
+            "Surface": "640 m²"
+        },
+        {
+            "Titre": "Vente local de 330m² en coeur de ville d'Anglet",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-330m2-en-coeur-de-ville-anglet-64600,2145010,A,offre.html",
+            "Prix": "650 000€",
+            "Surface": "1 563€/m²"
+        },
+        {
+            "Titre": "Vend murs commerciaux bar tabac hôtel 1200m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,vente-murs-commerciaux-un-complexe-bar-tabac-hotel-1200m2-pau-64000,2138991,A,offre.html",
+            "Prix": "541 542€",
+            "Surface": "307 m²"
+        },
+        {
+            "Titre": "Vente locaux commerciaux neufs 86m² Hendaye centre",
+            "URL": "https://www.cessionpme.com/annonce,vente-hendaye-centre-locaux-commerciaux-neufs-64700,2138942,A,offre.html",
+            "Prix": "584 046€",
+            "Surface": "248€/m²"
+        },
+        {
+            "Titre": "Terrains à partir de 1860m² à vendre à Lons",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-terrain-lons-64140,2134375,A,offre.html",
+            "Prix": "758 800€",
+            "Surface": "450 m²"
+        },
+        {
+            "Titre": "Vente immeuble à Pau centre quartier du Château",
+            "URL": "https://www.cessionpme.com/annonce,vente-immeuble-pau-centre-ville-quartier-du-chateau-64000,2133948,A,offre.html",
+            "Prix": "204 464€",
+            "Surface": "1 191€/m²"
+        },
+        {
+            "Titre": "Vend bureaux en R+2 de 86.5m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,acheter-biarritz-programme-en-vefa-bureaux-en-r-2-de-86m2-64200,2132767,A,offre.html",
+            "Prix": "443 938€",
+            "Surface": "299 m²"
+        },
+        {
+            "Titre": "Loue bureaux 139m² RDC Biarritz programme en Vefa",
+            "URL": "https://www.cessionpme.com/annonce,achat-biarritz-programme-en-vefa-bureaux-en-rdc-de-139m2-64200,2132766,A,offre.html",
+            "Prix": "284 978€",
+            "Surface": "3 005€/m²"
+        },
+        {
+            "Titre": "Vend immeuble restaurant de 280m² en agglo de Pau",
+            "URL": "https://www.cessionpme.com/annonce,achat-ensemble-immobilier-commercial-sur-terrain-de-3700m2-pau-64000,2132353,A,offre.html",
+            "Prix": "275 444€",
+            "Surface": "294 m²"
+        },
+        {
+            "Titre": "Vend bureaux 61m² en R+2 à Biarritz prox aéroport",
+            "URL": "https://www.cessionpme.com/annonce,acheter-biarritz-programme-neuf-bureaux-en-r2-de-61-m2-64200,2132098,A,offre.html",
+            "Prix": "195 459€",
+            "Surface": "3 200€/m²"
+        },
+        {
+            "Titre": "Vend bureaux en RDC de 60m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,vente-biarritz-programme-en-vefa-bureaux-en-rdc-de-60m2-64200,2132097,A,offre.html",
+            "Prix": "228 000€",
+            "Surface": "266 m²"
+        },
+        {
+            "Titre": "Vend bureaux en R+1 de 37m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,vente-biarritz-programme-en-vefa-bureaux-en-r-1-de-37-m2-64200,2132096,A,offre.html",
+            "Prix": "344 600€",
+            "Surface": "3 306€/m²"
+        },
+        {
+            "Titre": "Vend bureaux en RDC de 44.34m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,acheter-biarritz-programme-bureaux-en-rdc-de-44m2-64200,2132095,A,offre.html",
+            "Prix": "1 400 000€",
+            "Surface": "251 m²"
+        },
+        {
+            "Titre": "Vend bureaux de 3000m² en VEFA à Biarritz aéroport",
+            "URL": "https://www.cessionpme.com/annonce,achat-biarritz-aeroport-programme-en-vefa-bureaux-64200,2131044,A,offre.html",
+            "Prix": "127 000€",
+            "Surface": "3 303€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 350m² entre Lembeye et Aire",
+            "URL": "https://www.cessionpme.com/annonce,vente-murs-commerciaux-diusse-64330,2130512,A,offre.html",
+            "Prix": "580 800€",
+            "Surface": "225 m²"
+        },
+        {
+            "Titre": "Vente local d'Activité dépôt de 288m² à Ciboure",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-activite-depot-ciboure-288-m2-64500,2129597,A,offre.html",
+            "Prix": "109 000€",
+            "Surface": "3 213€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux 2525m² à Lescar",
+            "URL": "https://www.cessionpme.com/annonce,achat-murs-commerciaux-lescar-64230,2127213,A,offre.html",
+            "Prix": "1 680 000€",
+            "Surface": "225 m²"
+        },
+        {
+            "Titre": "Vente locaux commerciaux loués à Oloron centre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-oloron-sainte-marie-64400,2126225,A,offre.html",
+            "Prix": "498 640€",
+            "Surface": "3 012€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux hôtel bureau 512m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-un-hotel-bureau-512m2-pau-hypercentre-64000,2124960,A,offre.html",
+            "Prix": "780 060€",
+            "Surface": "163 m²"
+        },
+        {
+            "Titre": "Vend immeuble de 300m² sur Oloron-Sainte-Marie",
+            "URL": "https://www.cessionpme.com/annonce,vente-immeuble-sur-oloron-sainte-marie-64400,2124348,A,offre.html",
+            "Prix": "537 560€",
+            "Surface": "3 306€/m²"
+        },
+        {
+            "Titre": "Vend ensemble immo divisé en deux 4000m² à Orthez",
+            "URL": "https://www.cessionpme.com/annonce,acheter-ensemble-immobilier-divise-en-deux-batiments-orthez-64300,2124215,A,offre.html",
+            "Prix": "428 800€",
+            "Surface": "163 m²"
+        },
+        {
+            "Titre": "Murs à vendre hôtel bar restaurant 280m² à Ascain",
+            "URL": "https://www.cessionpme.com/annonce,achat-murs-hotel-bar-restaurant-280m2-ascain-64310,2121250,A,offre.html",
+            "Prix": "215 000€",
+            "Surface": "2 987€/m²"
+        },
+        {
+            "Titre": "À vendre bureaux de standing en centre-ville à Pau",
+            "URL": "https://www.cessionpme.com/annonce,achat-bureaux-de-standing-dans-le-centre-ville-pau-64000,2122788,A,offre.html",
+            "Prix": "235 400€",
+            "Surface": "180 m²"
+        },
+        {
+            "Titre": "Vente local commercial 330m² axe majeur à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-commercial-anglet-64600,2121181,A,offre.html",
+            "Prix": "299 160€",
+            "Surface": "5 006€/m²"
+        },
+        {
+            "Titre": "Vente entrepôt Industriel 495m² ZA Villefranque",
+            "URL": "https://www.cessionpme.com/annonce,acheter-entrepot-local-industriel-villefranque-64,2121179,A,offre.html",
+            "Prix": "136 740€",
+            "Surface": "65 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux de 150m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,achat-boutique-150m2-biarritz-64200,2120311,A,offre.html",
+            "Prix": "771 840€",
+            "Surface": "3 227€/m²"
+        },
+        {
+            "Titre": "Vend local commercial 73m² excellent état Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,acheter-local-commercial-73m2-biarritz-64200,2120310,A,offre.html",
+            "Prix": "1 050 000€",
+            "Surface": "941 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 80m² au 2ème étage à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,vente-anglet-bureaux-80m2-64600,2119992,A,offre.html",
+            "Prix": "221 000€",
+            "Surface": "505€/m²"
+        },
+        {
+            "Titre": "Vend local commercial 365m² Saint Jean de Luz Nord",
+            "URL": "https://www.cessionpme.com/annonce,acheter-saint-jean-de-luz-nord-local-commercial-365m2-64500,2114096,A,offre.html",
+            "Prix": "162 000€",
+            "Surface": "387 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 42m² + parkings à Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,acheter-bayonne-bureaux-42m2-64100,2110968,A,offre.html",
+            "Prix": "387 600€",
+            "Surface": "465€/m²"
+        },
+        {
+            "Titre": "Vente local commercial de 600m² sur 1568m² à Buros",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-commercial-buros-64160,2110080,A,offre.html",
+            "Prix": "856 000€",
+            "Surface": "545 m²"
+        },
+        {
+            "Titre": "Vente murs occupés de 317m² empl N°1 Côte Basque",
+            "URL": "https://www.cessionpme.com/annonce,vente-emplacement-numero-1-murs-occupes-317m2-cote-basque-pyrenees-atlantiques-64,2108979,A,offre.html",
+            "Prix": "288 000€",
+            "Surface": "1 514€/m²"
+        },
+        {
+            "Titre": "Vente ensemble commercial 135m² à Bedous",
+            "URL": "https://www.cessionpme.com/annonce,achat-boutique-bedous-64490,2107255,A,offre.html",
+            "Prix": "841 000€",
+            "Surface": "616 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux belle visibilité à Lons",
+            "URL": "https://www.cessionpme.com/annonce,achat-murs-commerciaux-ou-activites-lons-64140,2104559,A,offre.html",
+            "Prix": "310 880€",
+            "Surface": "399 m²"
+        },
+        {
+            "Titre": "Vente murs boulangerie dans agglo de Pau",
+            "URL": "https://www.cessionpme.com/annonce,acheter-opportunite-investisseur-murs-boulangerie-agglomeration-de-pau-64,2104558,A,offre.html",
+            "Prix": "277 000€",
+            "Surface": "2 800€/m²"
+        },
+        {
+            "Titre": "Vente bureaux dans villa à Pau centre proche CPAM",
+            "URL": "https://www.cessionpme.com/annonce,achat-bureaux-pau-centre-proche-cpam-64000,2104548,A,offre.html",
+            "Prix": "415 000€",
+            "Surface": "359 m²"
+        },
+        {
+            "Titre": "Vente local d'activités 315m² à Aramits",
+            "URL": "https://www.cessionpme.com/annonce,vente-local-activites-aramits-64570,2095966,A,offre.html",
+            "Prix": "898 000€",
+            "Surface": "2 400€/m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux occupés 105m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,acheter-murs-commerciaux-occupes-biarritz-64200-bab-et-alentours,2089020,A,offre.html",
+            "Prix": "194 250€",
+            "Surface": "44 m²"
+        },
+        {
+            "Titre": "Vente local activité de 3800m² en ZA à Pau Nord",
+            "URL": "https://www.cessionpme.com/annonce,acheter-pau-local-activite-3800m2-64000,2088047,A,offre.html",
+            "Prix": "59 400€",
+            "Surface": "4 742€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 214m² à Pau Parc Lawrence",
+            "URL": "https://www.cessionpme.com/annonce,vente-pau-commerce-214m2-64000,2083342,A,offre.html",
+            "Prix": "51 240€",
+            "Surface": "197 m²"
+        },
+        {
+            "Titre": "Vend bureau de 102m² au 1er étage à Anglet Maignon",
+            "URL": "https://www.cessionpme.com/annonce,vente-anglet-bureau-102m2-64600,2081468,A,offre.html",
+            "Prix": "368 300€",
+            "Surface": "6 563€/m²"
+        },
+        {
+            "Titre": "Local industriel de 25 534 m² à vendre - Mourenx (",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-industriel-de-25-534-m2-vendre-mourenx-64150,2077671,A,offre.html",
+            "Prix": "657 250€",
+            "Surface": "60 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 130m² à Bayonne Arènes",
+            "URL": "https://www.cessionpme.com/annonce,achat-bayonne-bureaux-130m2-64100,2076512,A,offre.html",
+            "Prix": "141 850€",
+            "Surface": "3 733€/m²"
+        },
+        {
+            "Titre": "Ensemble immobilier à vendre à Baigts de Béarn",
+            "URL": "https://www.cessionpme.com/annonce,vente-ensemble-immobilier-baigts-de-bearn-64,2071383,A,offre.html",
+            "Prix": "180 000€",
+            "Surface": "284 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 63m² à Bayonne Marracq",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-63m2-64100,2069977,A,offre.html",
+            "Prix": "320 000€",
+            "Surface": "2 095€/m²"
+        },
+        {
+            "Titre": "Vente beau salon de coiffure mixte centre ville 64",
+            "URL": "https://www.cessionpme.com/annonce,achat-beau-salon-de-coiffure-mixte-biarritz-64200,2069653,A,offre.html",
+            "Prix": "840 000€",
+            "Surface": "196 m²"
+        },
+        {
+            "Titre": "Vente local commercial 50m² à Bayonne Nord",
+            "URL": "https://www.cessionpme.com/annonce,vente-local-commercial-place-des-gascons-bayonne-50-64100,2069540,A,offre.html",
+            "Prix": "429 292€",
+            "Surface": "6 490€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 35m² à Bayonne proche Arènes",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-proche-arenes-64100,2069480,A,offre.html",
+            "Prix": "335 858€",
+            "Surface": "640 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 165m² à Bayonne proche Arènes",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-165m2-64100,2069477,A,offre.html",
+            "Prix": "396 191€",
+            "Surface": "742€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 343m² à Bayonne proche Arènes",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-343m2-64100,2069476,A,offre.html",
+            "Prix": "840 000€",
+            "Surface": "850 m²"
+        },
+        {
+            "Titre": "Vente local d'activités 95m² à Lescar",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-activites-lescar-64230,2061914,A,offre.html",
+            "Prix": "700 000€",
+            "Surface": "1 544€/m²"
+        },
+        {
+            "Titre": "Vend maison d'hôtes Monségur prox Hautes-Pyrénées",
+            "URL": "https://www.cessionpme.com/annonce,achat-maison-hotes-monsegur-pres-des-hautes-pyrenees,2038019,A,offre.html",
+            "Prix": "1 131 520€",
+            "Surface": "218 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 541m² + 12 parkings à Pau",
+            "URL": "https://www.cessionpme.com/annonce,acheter-pau-bureaux-541m2-64000,2032158,A,offre.html",
+            "Prix": "1 800 000€",
+            "Surface": "1 217€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 140m² en RDC à Sauvagon",
+            "URL": "https://www.cessionpme.com/annonce,acheter-bureaux-140m2-sauvagnon-64230,2032156,A,offre.html",
+            "Prix": "1 480 160€",
+            "Surface": "423 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 164m² en RDC à Sauvagon",
+            "URL": "https://www.cessionpme.com/annonce,achat-sauvagon-bureaux-164m2-64230,2032155,A,offre.html",
+            "Prix": "785 000€",
+            "Surface": "1 212€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 193.50m² en R+1 à Sauvagon",
+            "URL": "https://www.cessionpme.com/annonce,acheter-sauvagon-bureaux-193m2-64230,2032153,A,offre.html",
+            "Prix": "618 000€",
+            "Surface": "46 m²"
+        },
+        {
+            "Titre": "Vente bureaux dans maison de maitre de 541m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,acheter-bureaux-maison-de-maitre-541m2-pau-64000,2025242,A,offre.html",
+            "Prix": "348 000€",
+            "Surface": "3 043€/m²"
+        },
+        {
+            "Titre": "Vend bureaux 245m² au 2ème étage Anglet Maignon",
+            "URL": "https://www.cessionpme.com/annonce,vente-anglet-maignon-commerce-211m2-64600,2012697,A,offre.html",
+            "Prix": "",
+            "Surface": "650 m²"
+        },
+        {
+            "Titre": "Vente terrain 1900m² à Anglet  zone de Maignon",
+            "URL": "https://www.cessionpme.com/annonce,vente-terrain-anglet-64600,1998315,A,offre.html",
+            "Prix": "",
+            "Surface": "485€/m²"
+        },
+        {
+            "Titre": "Vente local refait de 400m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,achat-local-refait-400m2-biarritz-64200,1988367,A,offre.html",
+            "Prix": "",
+            "Surface": "400 m²"
+        },
+        {
+            "Titre": "Entrepôt 2525m² à vendre à Pau-Lescar",
+            "URL": "https://www.cessionpme.com/annonce,acheter-entrepot-local-industriel-pau-lescar-64,1940793,A,offre.html",
+            "Prix": "",
+            "Surface": "1 340€/m²"
+        },
+        {
+            "Titre": "Vente murs 435m² décomposés en 3 lots dans le 64",
+            "URL": "https://www.cessionpme.com/annonce,achat-murs-435m2-pyrenees-atlantiques-64,1944958,A,offre.html",
+            "Prix": "",
+            "Surface": "145 m²"
+        },
+        {
+            "Titre": "Bâtiment industriel occupé à vendre à Lons",
+            "URL": "https://www.cessionpme.com/annonce,acheter-batiment-industriel--lons-64140,1856818,A,offre.html",
+            "Prix": "",
+            "Surface": "5 922€/m²"
+        },
+        {
+            "Titre": "Vente local industriel 1100m² à Salies de Béarn",
+            "URL": "https://www.cessionpme.com/annonce,vente-av-local-industriel-salies-de-bearn-64270,1818169,A,offre.html",
+            "Prix": "",
+            "Surface": "77 m²"
         }
     ],
     "Annonces 'Bureaux Coworking, 64'": [
@@ -83,68 +1199,368 @@
         {
             "Titre": "Vente bureaux calmes et lumineux de 95m² à Anglet",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-calme-et-lumineux-95m2-anglet-64600,2220827,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "319 930€",
+            "Surface": "2 085€/m²"
         },
         {
             "Titre": "A vendre locaux 234m² pour activité médicale à Pau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-locaux-pour-activite-medicale-pau-64000,2218092,A,offre.html",
-            "Prix": "319 930€",
+            "Prix": "281 958€",
             "Surface": "95 m²"
         },
         {
             "Titre": "A vendre plateau 176m² pour activité médicale Pau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-pau-64000,2218091,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "212 112€",
+            "Surface": "3 368€/m²"
         },
         {
             "Titre": "A vendre plateau de bureaux 219m² R+2 à Bizanos",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-plateau-proche-du-centre-ville-de-pau,2217165,A,offre.html",
-            "Prix": "281 958€",
+            "Prix": "441 860€",
             "Surface": "234 m²"
         },
         {
             "Titre": "Vente bureaux 271m² R+2 zone tertiaire de Pau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureau-pau-64000,2216672,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "334 864€",
+            "Surface": "1 205€/m²"
         },
         {
             "Titre": "Vente plateaux de bureaux 273m² R+1 à Pau Nord",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-plateaux-de-bureaux-pau-nord-64000,2216671,A,offre.html",
-            "Prix": "212 112€",
+            "Prix": "238 277€",
             "Surface": "176 m²"
         },
         {
             "Titre": "À vendre bureaux 113m² R+2 axe très passant à Pau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-pau-64000,2214340,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "129 000€",
+            "Surface": "1 205€/m²"
         },
         {
             "Titre": "Bureaux 165m² lumineux à vendre sur Pau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212186,A,offre.html",
-            "Prix": "441 860€",
+            "Prix": "332 596€",
             "Surface": "219 m²"
         },
         {
             "Titre": "Vente bureaux 140m² lumineux à Serres-Castet",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-proche-de-tous-les-transports-serres-castet-64121,2212185,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "284 043€",
+            "Surface": "2 018€/m²"
         },
         {
             "Titre": "A vendre bureaux de 193m² proche aéroport de Pau",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-pau-64000,2212184,A,offre.html",
-            "Prix": "334 864€",
+            "Prix": "406 383€",
             "Surface": "225 m²"
         },
         {
             "Titre": "Vente bureaux 68m² RDC lumineux à Serres-Castet",
             "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-de-68-m2-lumineux-serres-castet-64121,2212183,A,offre.html",
-            "Prix": "Prix indisponible",
-            "Surface": "Surface inconnue"
+            "Prix": "141 000€",
+            "Surface": "1 488€/m²"
+        },
+        {
+            "Titre": "Vente bureaux 193m² avec 2 terrasses Serres-Castet",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-serres-castet-64121,2212182,A,offre.html",
+            "Prix": "406 383€",
+            "Surface": "224 m²"
+        },
+        {
+            "Titre": "VENTE - REF : 7049FD",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-anglet-bureaux-ref-7049fd-64600,2211072,A,offre.html",
+            "Prix": "755 244€",
+            "Surface": "1 064€/m²"
+        },
+        {
+            "Titre": "Vente bureau 40m² au 2ème étage à Biarritz Kleber",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-biarritz-bureau-40m2-64200,2200560,A,offre.html",
+            "Prix": "242 000€",
+            "Surface": "114 m²"
+        },
+        {
+            "Titre": "Bureaux divisibles de 2600m² à vendre à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-pau-bureaux-2600m2-64000,2197307,A,offre.html",
+            "Prix": "7 280 000€",
+            "Surface": "1 132€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 299.5m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-2995m2-boucau-64340,2194136,A,offre.html",
+            "Prix": "898 500€",
+            "Surface": "165 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 294m² RDC Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-294m2-rdc-boucau-64340,2194135,A,offre.html",
+            "Prix": "940 800€",
+            "Surface": "2 016€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 266.5m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-266m2-de-boucau-64340,2194134,A,offre.html",
+            "Prix": "879 450€",
+            "Surface": "140 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 251.2m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-2512m2-boucau-64340,2194133,A,offre.html",
+            "Prix": "828 960€",
+            "Surface": "2 029€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 225.9m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194132,A,offre.html",
+            "Prix": "722 880€",
+            "Surface": "194 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 225.9m² à Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-programme-pole-medical-225m2-boucau-64340,2194131,A,offre.html",
+            "Prix": "677 700€",
+            "Surface": "2 095€/m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 163.3m² au Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-163m2-boucau-64340,2194130,A,offre.html",
+            "Prix": "538 890€",
+            "Surface": "68 m²"
+        },
+        {
+            "Titre": "Vend murs programme pôle médical 163.3m² au Boucau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-murs-programme-pole-medical-1633m2-boucau-64340,2194128,A,offre.html",
+            "Prix": "486 900€",
+            "Surface": "2 074€/m²"
+        },
+        {
+            "Titre": "Vente bureaux climatisés VEFA 42m² Bayonne Lauga",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bayonne-lauga-vefa-bureaux-climatises-64100,2193600,A,offre.html",
+            "Prix": "209 742€",
+            "Surface": "194 m²"
+        },
+        {
+            "Titre": "Vente bureaux neufs de 197m² à Biarritz Aguilera",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-neufs-biarritz-64200-bab-et-alentours,2189211,A,offre.html",
+            "Prix": "1 293 000€",
+            "Surface": "2 095€/m²"
+        },
+        {
+            "Titre": "Vend bureau de 196m² en centre d'affaires Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-centre-affaires-biarritz-vendre-bureau-en-attique-64200,2186036,A,offre.html",
+            "Prix": "1 272 000€",
+            "Surface": "330 m²"
+        },
+        {
+            "Titre": "Vend bureaux en R+2 de 139m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-biarritz-programme-en-vefa-bureaux-en-r-2-de-139m2-64200,2177638,A,offre.html",
+            "Prix": "858 627€",
+            "Surface": "2 289€/m²"
+        },
+        {
+            "Titre": "Bureaux en R+2 de 77.5m² à vendre à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-biarritz-programme-en-vefa-bureaux-en-r-2de-77m2-64200,2177637,A,offre.html",
+            "Prix": "458 631€",
+            "Surface": "40 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 1 540m² à Salies De Béarn",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-salies-de-bearn-1-540-m2,2175254,A,offre.html",
+            "Prix": "855 560€",
+            "Surface": "6 050€/m²"
+        },
+        {
+            "Titre": "Vend bureaux de 132m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pole-activites-tertiaires-132m2-bayonne-forum-64100,2171062,A,offre.html",
+            "Prix": "478 400€",
+            "Surface": "2 600 m²"
+        },
+        {
+            "Titre": "Vend bureaux de 126m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pole-activites-tertiaires-126m2-bayonne-forum-64100,2171061,A,offre.html",
+            "Prix": "484 900€",
+            "Surface": "2 800€/m²"
+        },
+        {
+            "Titre": "Vend bureaux de 180m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-pole-activites-tertiaires-180m2-bayonne-forum-64100,2171060,A,offre.html",
+            "Prix": "690 200€",
+            "Surface": "299 m²"
+        },
+        {
+            "Titre": "Vend bureaux de 213m² à aménager à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pole-activites-tertiaires-213m2-bayonne-forum-64100,2171059,A,offre.html",
+            "Prix": "771 900€",
+            "Surface": "3 005€/m²"
+        },
+        {
+            "Titre": "Local commercial 363m² à vendre Pau proche Serviez",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-pau-64000,2170734,A,offre.html",
+            "Prix": "440 000€",
+            "Surface": "294 m²"
+        },
+        {
+            "Titre": "Vend bureaux de 131m² en VEFA à Bayonne Forum",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bayonne-forum-nouvel-immeuble-de-bureaux-131m2-en-vefa-64100,2166876,A,offre.html",
+            "Prix": "581 880€",
+            "Surface": "3 200€/m²"
+        },
+        {
+            "Titre": "Vend plateau tertiaire de 201m² à amenager à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-plateau-amenager-immeuble-tertiaire-de-standing-pau-64000,2161487,A,offre.html",
+            "Prix": "381 600€",
+            "Surface": "266 m²"
+        },
+        {
+            "Titre": "Vente bureaux 120m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-pau-64000,2161391,A,offre.html",
+            "Prix": "149 000€",
+            "Surface": "3 306€/m²"
+        },
+        {
+            "Titre": "Vend bureaux en R+2 de 86.5m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,acheter-biarritz-programme-en-vefa-bureaux-en-r-2-de-86m2-64200,2132767,A,offre.html",
+            "Prix": "541 542€",
+            "Surface": "251 m²"
+        },
+        {
+            "Titre": "Loue bureaux 139m² RDC Biarritz programme en Vefa",
+            "URL": "https://www.cessionpme.com/annonce,achat-biarritz-programme-en-vefa-bureaux-en-rdc-de-139m2-64200,2132766,A,offre.html",
+            "Prix": "584 046€",
+            "Surface": "3 303€/m²"
+        },
+        {
+            "Titre": "Vend bureaux 61m² en R+2 à Biarritz prox aéroport",
+            "URL": "https://www.cessionpme.com/annonce,acheter-biarritz-programme-neuf-bureaux-en-r2-de-61-m2-64200,2132098,A,offre.html",
+            "Prix": "204 464€",
+            "Surface": "225 m²"
+        },
+        {
+            "Titre": "Vend bureaux en RDC de 60m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,vente-biarritz-programme-en-vefa-bureaux-en-rdc-de-60m2-64200,2132097,A,offre.html",
+            "Prix": "443 938€",
+            "Surface": "3 213€/m²"
+        },
+        {
+            "Titre": "Vend bureaux en R+1 de 37m² en VEFA à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,vente-biarritz-programme-en-vefa-bureaux-en-r-1-de-37-m2-64200,2132096,A,offre.html",
+            "Prix": "284 978€",
+            "Surface": "225 m²"
+        },
+        {
+            "Titre": "Vend bureaux en RDC de 44.34m² à Biarritz",
+            "URL": "https://www.cessionpme.com/annonce,acheter-biarritz-programme-bureaux-en-rdc-de-44m2-64200,2132095,A,offre.html",
+            "Prix": "275 444€",
+            "Surface": "3 012€/m²"
+        },
+        {
+            "Titre": "Vend bureaux de 3000m² en VEFA à Biarritz aéroport",
+            "URL": "https://www.cessionpme.com/annonce,achat-biarritz-aeroport-programme-en-vefa-bureaux-64200,2131044,A,offre.html",
+            "Prix": "195 459€",
+            "Surface": "163 m²"
+        },
+        {
+            "Titre": "À vendre bureaux de standing en centre-ville à Pau",
+            "URL": "https://www.cessionpme.com/annonce,achat-bureaux-de-standing-dans-le-centre-ville-pau-64000,2122788,A,offre.html",
+            "Prix": "235 400€",
+            "Surface": "3 306€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 80m² au 2ème étage à Anglet",
+            "URL": "https://www.cessionpme.com/annonce,vente-anglet-bureaux-80m2-64600,2119992,A,offre.html",
+            "Prix": "136 740€",
+            "Surface": "163 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 42m² + parkings à Bayonne",
+            "URL": "https://www.cessionpme.com/annonce,acheter-bayonne-bureaux-42m2-64100,2110968,A,offre.html",
+            "Prix": "856 000€",
+            "Surface": "2 987€/m²"
+        },
+        {
+            "Titre": "Vente bureaux dans villa à Pau centre proche CPAM",
+            "URL": "https://www.cessionpme.com/annonce,achat-bureaux-pau-centre-proche-cpam-64000,2104548,A,offre.html",
+            "Prix": "310 880€",
+            "Surface": "65 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 214m² à Pau Parc Lawrence",
+            "URL": "https://www.cessionpme.com/annonce,vente-pau-commerce-214m2-64000,2083342,A,offre.html",
+            "Prix": "277 000€",
+            "Surface": "3 227€/m²"
+        },
+        {
+            "Titre": "Vend bureau de 102m² au 1er étage à Anglet Maignon",
+            "URL": "https://www.cessionpme.com/annonce,vente-anglet-bureau-102m2-64600,2081468,A,offre.html",
+            "Prix": "415 000€",
+            "Surface": "197 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 130m² à Bayonne Arènes",
+            "URL": "https://www.cessionpme.com/annonce,achat-bayonne-bureaux-130m2-64100,2076512,A,offre.html",
+            "Prix": "194 250€",
+            "Surface": "6 563€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 63m² à Bayonne Marracq",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-63m2-64100,2069977,A,offre.html",
+            "Prix": "368 300€",
+            "Surface": "196 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 35m² à Bayonne proche Arènes",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-proche-arenes-64100,2069480,A,offre.html",
+            "Prix": "657 250€",
+            "Surface": "6 490€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 165m² à Bayonne proche Arènes",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-165m2-64100,2069477,A,offre.html",
+            "Prix": "141 850€",
+            "Surface": "145 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 343m² à Bayonne proche Arènes",
+            "URL": "https://www.cessionpme.com/annonce,vente-bayonne-bureaux-343m2-64100,2069476,A,offre.html",
+            "Prix": "840 000€",
+            "Surface": "5 922€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 541m² + 12 parkings à Pau",
+            "URL": "https://www.cessionpme.com/annonce,acheter-pau-bureaux-541m2-64000,2032158,A,offre.html",
+            "Prix": "429 292€",
+            "Surface": "77 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 140m² en RDC à Sauvagon",
+            "URL": "https://www.cessionpme.com/annonce,acheter-bureaux-140m2-sauvagnon-64230,2032156,A,offre.html",
+            "Prix": "335 858€",
+            "Surface": "5 956€/m²"
+        },
+        {
+            "Titre": "Vente bureaux de 164m² en RDC à Sauvagon",
+            "URL": "https://www.cessionpme.com/annonce,achat-sauvagon-bureaux-164m2-64230,2032155,A,offre.html",
+            "Prix": "396 191€",
+            "Surface": "1 540 m²"
+        },
+        {
+            "Titre": "Vente bureaux de 193.50m² en R+1 à Sauvagon",
+            "URL": "https://www.cessionpme.com/annonce,acheter-sauvagon-bureaux-193m2-64230,2032153,A,offre.html",
+            "Prix": "840 000€",
+            "Surface": "556€/m²"
+        },
+        {
+            "Titre": "Vente bureaux dans maison de maitre de 541m² à Pau",
+            "URL": "https://www.cessionpme.com/annonce,acheter-bureaux-maison-de-maitre-541m2-pau-64000,2025242,A,offre.html",
+            "Prix": "700 000€",
+            "Surface": "132 m²"
+        },
+        {
+            "Titre": "Vend bureaux 245m² au 2ème étage Anglet Maignon",
+            "URL": "https://www.cessionpme.com/annonce,vente-anglet-maignon-commerce-211m2-64600,2012697,A,offre.html",
+            "Prix": "",
+            "Surface": "3 624€/m²"
         }
     ]
 }
