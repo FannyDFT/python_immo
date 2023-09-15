@@ -5,6 +5,26 @@ import requests
 from bs4 import BeautifulSoup
 # Manipulation de données en json
 import json
+import psycopg2
+
+conn = psycopg2.connect(
+    host="localhost",
+    database="python",
+    user="postgres",
+    password="postgres"
+)
+
+cur = conn.cursor()
+
+cur.execute("""
+    CREATE TABLE annonces (
+    id int,
+    titre VARCHAR(255),
+    url VARCHAR(255),
+    prix VARCHAR(255),
+    surface VARCHAR(255)
+    )
+""")
 
 # Fonction pour scraper la page concernant les bureaux-Coworking 33 & 64
 def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo):
@@ -229,3 +249,11 @@ with open('datas/resultats_64.json', 'w', encoding='utf-8') as json_file:
 # Pour le département 33
 with open('datas/resultats_33.json', 'w', encoding='utf-8') as json_file:
     json.dump(data_33, json_file, ensure_ascii=False, indent=4)
+
+
+
+cur.close()
+
+conn.commit()
+
+conn.close()
