@@ -1,6 +1,150 @@
 {
-    "titres_locaux_33": [],
-    "urls_locaux_33": [],
-    "prix_locaux_33": [],
-    "surface_locaux_33": []
+    "Annonces 'Locaux, Entrepôts, Terrains, 33'": [
+        {
+            "Titre": "Bureaux de 97m² à vendre à Bordeaux Pey Berland",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-97m2-pey-berland-bordeaux,2223786,A,offre.html",
+            "Prix": "535 000€",
+            "Surface": "97 m²"
+        },
+        {
+            "Titre": "Vente bureaux 283m² R+1 à Bordeaux Palais Congrés",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-283m2-bordeaux-33300,2223699,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Bâtiment mixte de 998m² à vendre à Bruges",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-mixte-998m2-bruges-33520,2223419,A,offre.html",
+            "Prix": "623 920€",
+            "Surface": "283 m²"
+        },
+        {
+            "Titre": "Vend entrepôt commercial 320m² Bordeaux Chartrons",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-entrepot-commercial-320m2-bordeaux,2223276,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Vente murs commerciaux libres 230m² à Monségur",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-libres-monsegur-gironde-33,2223111,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "998 m²"
+        },
+        {
+            "Titre": "Vente murs commerciaux de 170m² à Bordeaux V. Hugo",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-murs-commerciaux-170m2-bordeaux,2222711,A,offre.html",
+            "Prix": "890 000€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Bureaux à vendre à Bruges Avenue de Terrefort",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bruges-33520,2222235,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "320 m²"
+        },
+        {
+            "Titre": "Terrain à vendre à Ambares et Lagrave A10",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-terrain-ambares-et-lagrave-33,2222227,A,offre.html",
+            "Prix": "200 000€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Bureaux de 120m² à vendre à Bordeaux Saint Paul",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2222225,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "230 m²"
+        },
+        {
+            "Titre": "A vendre murs commerciaux loués 280m² à Bordeaux",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-murs-commerciaux-loues-280m2-bordeaux,2221854,A,offre.html",
+            "Prix": "490 000€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Vente local commercial de 190m² à Bruges",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-local-commercial-190m2-bruges-33520,2221852,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "170 m²"
+        },
+        {
+            "Titre": "Local activités-bureaux 2622m² à vendre à Pessac",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-pessac-mixte-activites-bureaux-2622m2-33600,2221620,A,offre.html",
+            "Prix": "1 194 522€",
+            "Surface": "Surface inconnue"
+        }
+    ],
+    "Annonces 'Bureaux Coworking, 33'": [
+        {
+            "Titre": "Bâtiment mixte de 998m² à vendre à Bruges",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-batiment-mixte-998m2-bruges-33520,2223419,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "998 m²"
+        },
+        {
+            "Titre": "Bureaux à vendre à Bruges Avenue de Terrefort",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bruges-33520,2222235,A,offre.html",
+            "Prix": "1 194 522€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Bureaux de 120m² à vendre à Bordeaux Saint Paul",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2222225,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "406 m²"
+        },
+        {
+            "Titre": "Bureaux 276m² à vendre proche rocade à Bruges",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-bruges-33520,2221364,A,offre.html",
+            "Prix": "703 177€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "bureaux à vendre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220200,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "120 m²"
+        },
+        {
+            "Titre": "bureaux à vendre",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220199,A,offre.html",
+            "Prix": "705 000€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Bureaux 191m²  R+1 à vendre Artigues pres Bordeaux",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-artigues-pres-bordeaux-33,2220195,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "276 m²"
+        },
+        {
+            "Titre": "Bureaux 187m² R+2 à vendre Artigues près Bordeaux",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-artigues-pres-bordeaux-33,2220194,A,offre.html",
+            "Prix": "413 800€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "bureaux à VENDRE",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-vente-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220192,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "191 m²"
+        },
+        {
+            "Titre": "bureaux à VENDRE",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-vendre-artigues-pres-bordeaux-gironde-33,2220191,A,offre.html",
+            "Prix": "389 150€",
+            "Surface": "Surface inconnue"
+        },
+        {
+            "Titre": "Bureaux VEFA à vendre Bordeaux pont Chaban Delmas",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-achat-bureaux-bordeaux,2219090,A,offre.html",
+            "Prix": "Prix indisponible",
+            "Surface": "187 m²"
+        },
+        {
+            "Titre": "Bureaux RT 2012 à vendre Tresses sortie n°24",
+            "URL": "https://www.cessionpme.com/annonce,immo-entreprise-acheter-bureaux-tresses-33370,2218589,A,offre.html",
+            "Prix": "413 800€",
+            "Surface": "Surface inconnue"
+        }
+    ]
 }
