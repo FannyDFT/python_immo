@@ -1,6 +1,7 @@
 from conf import url, departement_imo, rubrique_imo, nature_imo
 import requests
 from bs4 import BeautifulSoup
+import json
 
 # Fonction pour scraper la page concernant les bureaux-Coworking 33 & 64
 def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo, page):
@@ -45,11 +46,13 @@ def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo, pa
 
             if label_span:
                 label_text = label_span.text.strip()
+                print("Label:", label_text)
                 # Si le label indique "Prix de vente", c'est le prix
                 if label_text == "Prix de vente":
                     prix_annonce = info_container.find('span', class_="badge__content__inner")
                     if prix_annonce:
                         prix_text = prix_annonce.text.strip()
+                        print("Prix:", prix_text)
                         prix.append(prix_text)
                     else:
                         prix.append("Prix indisponible")
@@ -58,6 +61,7 @@ def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo, pa
                     surface_annonce = info_container.find('span', class_="badge__content__inner")
                     if surface_annonce:
                         surface_text = surface_annonce.text.strip()
+                        print("Surface:", surface_text)
                         surface.append(surface_text)
                     else:
                         surface.append("Surface inconnue")
@@ -118,7 +122,6 @@ def scraper_page_Locaux_Entrepots_Coworking(departement_imo, rubrique_imo, natur
                     if prix_annonce:
                         prix_text = prix_annonce.text.strip()
                         prix.append(prix_text)
-                        print("prix:", prix)
                     else:
                         prix.append("Prix indisponible")
                 # Si le label indique "Surface", c'est la surface
@@ -143,6 +146,7 @@ def scraper_page_Locaux_Entrepots_Coworking(departement_imo, rubrique_imo, natur
 # Biens à l'achat, dans le 64 et la rubrique Locaux, Entrepôt, Terrains
 titres_locaux_64, urls_locaux_64, prix_locaux_64, surface_locaux_64 = scraper_page_Locaux_Entrepots_Coworking("93", "2", "V", 1)
 for titre, url, prix, surface in zip(titres_locaux_64, urls_locaux_64, prix_locaux_64, surface_locaux_64):
+    print("url:", url)
     print("Titre Locaux, Entrepôts, Terrains - 64: ", titre, "URL de l'annonce:", url, "Prix:", prix, "Surface:", surface)
    
 
@@ -163,6 +167,28 @@ titres_bureaux_33, urls_bureaux_33, prix_locaux_33, surface_locaux_33 = scraper_
 for titre, url, prix, surface in zip(titres_bureaux_33, urls_bureaux_33, prix_locaux_33, surface_locaux_33):
     print("Titre Bureaux, Coworking - 33:", titre, "URL de l'annonce:", url, "Prix:", prix, "Surface:", surface)
    
-   
 
-print("Hello")
+
+data_64 = {
+    "titres_locaux_64": titres_locaux_64,
+    "urls_locaux_64": urls_locaux_64,
+    "prix_locaux_64": prix_locaux_64,
+    "surface_locaux_64": surface_locaux_64,
+}
+print("data_64:", data_64)
+
+data_33 = {
+    "titres_locaux_33": titres_locaux_33,
+    "urls_locaux_33": urls_locaux_33,
+    "prix_locaux_33": prix_locaux_33,
+    "surface_locaux_33": surface_locaux_33,
+}
+print("data_33:", data_33)
+
+# Pour le département 64
+with open('datas/resultats_64.json', 'w', encoding='utf-8') as json_file:
+    json.dump(data_64, json_file, ensure_ascii=False, indent=4)
+
+# Pour le département 33
+with open('datas/resultats_33.json', 'w', encoding='utf-8') as json_file:
+    json.dump(data_33, json_file, ensure_ascii=False, indent=4)
