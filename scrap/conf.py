@@ -1,5 +1,5 @@
 # URL du site
-url = "https://www.cessionpme.com"
+main_url = "https://www.cessionpme.com"
 
 # Liste des départements à traiter
 departement_imo = {
