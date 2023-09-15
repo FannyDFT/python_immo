@@ -52,11 +52,13 @@ def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo, pa
 
             if label_span:
                 label_text = label_span.text.strip()
+                print("Label:", label_text)
                 # Si le label indique "Prix de vente", c'est le prix
                 if label_text == "Prix de vente":
                     prix_annonce = info_container.find('span', class_="badge__content__inner")
                     if prix_annonce:
                         prix_text = prix_annonce.text.strip()
+                        print("Prix:", prix_text)
                         prix.append(prix_text)
                     else:
                         prix.append("Prix indisponible")
@@ -65,6 +67,7 @@ def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo, pa
                     surface_annonce = info_container.find('span', class_="badge__content__inner")
                     if surface_annonce:
                         surface_text = surface_annonce.text.strip()
+                        print("Surface:", surface_text)
                         surface.append(surface_text)
                     else:
                         surface.append("Surface inconnue")
@@ -149,6 +152,7 @@ def scraper_page_Locaux_Entrepots_Coworking(departement_imo, rubrique_imo, natur
 # Biens à l'achat, dans le 64 et la rubrique Locaux, Entrepôt, Terrains
 titres_locaux_64, urls_locaux_64, prix_locaux_64, surface_locaux_64 = scraper_page_Locaux_Entrepots_Coworking("93", "2", "V", 1)
 for titre, url, prix, surface in zip(titres_locaux_64, urls_locaux_64, prix_locaux_64, surface_locaux_64):
+    print("url:", url)
     print("Titre Locaux, Entrepôts, Terrains - 64: ", titre, "URL de l'annonce:", url, "Prix:", prix, "Surface:", surface)
    
 
@@ -214,8 +218,6 @@ data_33 = {
         for i in range(len(titres_bureaux_33))
     ]
 }
-
-
 
 # Pour le département 64
 with open('datas/resultats_64.json', 'w', encoding='utf-8') as json_file:
