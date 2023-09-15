@@ -7,24 +7,24 @@ from bs4 import BeautifulSoup
 import json
 import psycopg2
 
-conn = psycopg2.connect(
-    host="localhost",
-    database="python",
-    user="postgres",
-    password="postgres"
-)
+# conn = psycopg2.connect(
+#     host="localhost",
+#     database="python",
+#     user="postgres",
+#     password="postgres"
+# )
 
-cur = conn.cursor()
+# cur = conn.cursor()
 
-cur.execute("""
-    CREATE TABLE annonces (
-    id int,
-    titre VARCHAR(255),
-    url VARCHAR(255),
-    prix VARCHAR(255),
-    surface VARCHAR(255)
-    )
-""")
+# cur.execute("""
+#     CREATE TABLE annonces (
+#     id int,
+#     titre VARCHAR(255),
+#     url VARCHAR(255),
+#     prix VARCHAR(255),
+#     surface VARCHAR(255)
+#     )
+# """)
 
 # Fonction pour scraper la page concernant les bureaux-Coworking 33 & 64
 def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo):
@@ -56,41 +56,41 @@ def scraper_page_Bureaux_Coworking(departement_imo, rubrique_imo, nature_imo):
 
             info_containers = annonce.find_all('div', class_='badge badge--accent-light')
 
-            last_label = None  # Garder une trace du dernier label traité
+            prix_text = "Prix inconnu"
+            surface_text = "Surface inconnue"
 
+            # Pour chaque container
             for info_container in info_containers:
+                #J'extrait le label ("Prix de vente", "Surface", "Montant au m²")
                 label_span = info_container.find('span', class_='badge__label')
 
                 if label_span:
+                    # J'extrait le texte de la balise 
                     label_text = label_span.text.strip()
 
                     if label_text == "Prix de vente":
+                        #J'extrait l'élément avec le prix 
                         prix_annonce = info_container.find('span', class_="badge__content__inner")
                         if prix_annonce:
+                            # J'extrait le text
                             prix_text = prix_annonce.text.strip()
-                            prix.append(prix_text)
-                            last_label = "Prix de vente"
+                            
                         else:
                             prix.append("Prix indisponible")
+
                     elif label_text == "Surface":
                         surface_annonce = info_container.find('span', class_="badge__content__inner")
                         if surface_annonce:
                             surface_text = surface_annonce.text.strip()
-                            surface.append(surface_text)
-                            last_label = "Surface"
+        
                         else:
                             surface.append("Surface inconnue")
-                    else:
-                        if last_label == "Prix de vente":
-                            prix_annonce = info_container.find('span', class_="badge__content__inner")
-                            if prix_annonce:
-                                prix_text = prix_annonce.text.strip()
-                                prix.append(prix_text)
-                        elif last_label == "Surface":
-                            surface_annonce = info_container.find('span', class_="badge__content__inner")
-                            if surface_annonce:
-                                surface_text = surface_annonce.text.strip()
-                                surface.append(surface_text)
+
+                    elif label_text == "Montant au m²":
+                        continue
+                    
+            prix.append(prix_text)
+            surface.append(surface_text)   
 
         page += 1  # Passer à la page suivante
 
@@ -127,42 +127,42 @@ def scraper_page_Locaux_Entrepots_Terrains(departement_imo, rubrique_imo, nature
 
             info_containers = annonce.find_all('div', class_='badge badge--accent-light')
 
-            last_label = None  # Garder une trace du dernier label traité
+            prix_text = "Prix inconnu"
+            surface_text = "Surface inconnue"
 
+             # Pour chaque container
             for info_container in info_containers:
+                #J'extrait le label ("Prix de vente", "Surface", "Montant au m²")
                 label_span = info_container.find('span', class_='badge__label')
 
                 if label_span:
+                    # J'extrait le texte de la balise 
                     label_text = label_span.text.strip()
 
                     if label_text == "Prix de vente":
+                        #J'extrait l'élément avec le prix 
                         prix_annonce = info_container.find('span', class_="badge__content__inner")
                         if prix_annonce:
+                            # J'extrait le text
                             prix_text = prix_annonce.text.strip()
-                            prix.append(prix_text)
-                            last_label = "Prix de vente"
+                        
                         else:
                             prix.append("Prix indisponible")
+
                     elif label_text == "Surface":
                         surface_annonce = info_container.find('span', class_="badge__content__inner")
                         if surface_annonce:
                             surface_text = surface_annonce.text.strip()
-                            surface.append(surface_text)
-                            last_label = "Surface"
+                    
                         else:
                             surface.append("Surface inconnue")
-                    else:
-                        if last_label == "Prix de vente":
-                            prix_annonce = info_container.find('span', class_="badge__content__inner")
-                            if prix_annonce:
-                                prix_text = prix_annonce.text.strip()
-                                prix.append(prix_text)
-                        elif last_label == "Surface":
-                            surface_annonce = info_container.find('span', class_="badge__content__inner")
-                            if surface_annonce:
-                                surface_text = surface_annonce.text.strip()
-                                surface.append(surface_text)
-
+                    
+                    elif label_text == "Montant au m²":
+                        continue
+            
+            prix.append(prix_text)
+            surface.append(surface_text)
+        
         page += 1  # Passer à la page suivante
 
     return titres, urls, prix, surface
@@ -173,7 +173,6 @@ def scraper_page_Locaux_Entrepots_Terrains(departement_imo, rubrique_imo, nature
 # Biens à l'achat, dans le 64 et la rubrique Locaux, Entrepôt, Terrains
 titres_locaux_64, urls_locaux_64, prix_locaux_64, surface_locaux_64 = scraper_page_Locaux_Entrepots_Terrains("93", "2", "V")
 for titre, url, prix, surface in zip(titres_locaux_64, urls_locaux_64, prix_locaux_64, surface_locaux_64):
-    print("url:", url)
     print("Titre Locaux, Entrepôts, Terrains - 64: ", titre, "URL de l'annonce:", url, "Prix:", prix, "Surface:", surface)
    
 
@@ -252,8 +251,8 @@ with open('datas/resultats_33.json', 'w', encoding='utf-8') as json_file:
 
 
 
-cur.close()
+# cur.close()
 
-conn.commit()
+# conn.commit()
 
-conn.close()
+# conn.close()
